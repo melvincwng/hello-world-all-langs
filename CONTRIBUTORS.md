@@ -28,4 +28,7 @@
 - Bio: Newbie Go Developer
 - Github: [dwiki48](https://github.com/dwiki48)
 
-
+### Name: [Ash Miller](https://github.com/drippy-cat)
+- Place: Los Angeles, California, United States
+- Bio: I'm an average coder who likes to make unblocked games for 'educational purposes'.
+- GitHub: [drippy-cat](https://github.com/drippy-cat)
